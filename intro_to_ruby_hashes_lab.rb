@@ -1,5 +1,7 @@
 def new_hash
-  {} 
+  {
+    ["apples=>" "3"]
+  }
 end
 
 def my_hash
