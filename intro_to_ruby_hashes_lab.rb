@@ -1,5 +1,5 @@
 def new_hash
-  # (["milk","eggs","butter",)
+  (["pets=" "cats" "grumpy cat" "maru"])
 end
 
 def my_hash
