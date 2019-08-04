@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  (["pets=" "dogs" "kripto" "german shepherd"])
+  
 end
 
 def pioneer
-  (["name=" "grumpy cat", "Grace Hopper"])
+  
 end
 
 def id_generator
